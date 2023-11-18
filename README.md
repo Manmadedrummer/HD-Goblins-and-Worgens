@@ -5,9 +5,9 @@
 
 * Made the MOD to work with the following HD patchs:
 
-HD Creatures 1 By Finsternis
-HD Creatures 2 By Finsternis
-WOD HD Player Models By Leeviathan
+HD Creatures 1 By Finsternis <br>
+HD Creatures 2 By Finsternis <br>
+WOD HD Player Models By Leeviathan <br>
 
 
 
